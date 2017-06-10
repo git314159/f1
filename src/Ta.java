@@ -1,3 +1,4 @@
 public class Ta {
-    public void print(){}
+    public void print(int x){}
+
 }
